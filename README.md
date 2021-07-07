@@ -13,10 +13,10 @@ Daily Activities Tracker (To Do App)
 
 
 
-# Key Features of the First Page :
-# 1. Submit Button has a hover effect <br>
-   # (a). On Hovering : <br>
+## Key Features of the First Page :
+### 1. Submit Button has a hover effect <br>
+   #### (a). On Hovering : <br>
         Background Color : White 
         Cursor : Hand Cursor 
         Foreground Color : Black 
-# 2. Text Field For Username and Password
+### 2. Text Field For Username and Password
