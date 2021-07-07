@@ -4,7 +4,7 @@ Daily Activities Tracker (To Do App)
 
  # Pages :  
    # page 1 :
-   Login Page with 
+   Login Page with <br>
     Username ====> bond007 <br>
     Password ====> james <br>
     
@@ -16,7 +16,7 @@ Daily Activities Tracker (To Do App)
 Key Features of the First Page :
  1. Submit Button has a hover effect <br>
     (a). On Hovering : <br>
-        Background Color : White
-        Cursor : Hand Cursor
-        Foreground Color : Black
+        Background Color : White <br>
+        Cursor : Hand Cursor <br>
+        Foreground Color : Black <br>
  2. Text Field For Username and Password
