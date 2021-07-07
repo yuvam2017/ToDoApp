@@ -5,8 +5,11 @@ Daily Activities Tracker (To Do App)
  # Pages :  
    # page 1 :
    Login Page with 
-    Username ====> bond007
-    Password ====> james
+    Username ====> bond007 <br>
+    Password ====> james <br>
+    
 
-    This is the first page
-      ![image](https://user-images.githubusercontent.com/67573209/124711112-47fff580-df1b-11eb-9c0a-634285067712.png)
+![Screenshot from 2021-07-07 12-02-54](https://user-images.githubusercontent.com/67573209/124711233-71b91c80-df1b-11eb-959e-19961ab93d3a.png)
+
+
+
