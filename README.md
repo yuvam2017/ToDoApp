@@ -24,3 +24,26 @@ Daily Activities Tracker (To Do App)
   #### (a). On Clicking Submit Button :
          The Label "Processing Your Request" is visible and  
          after 1 sec the Label text changes to "Login Successul"
+
+
+# File Handling ::
+Custom File handler for to-do app.
+
+### Usage:
+import the FileHandler class*
+`import FileHandler.*;`
+create FileHandler Object*
+`FileHandler handler = new FileHandler("file_name");`
+
+
+### Available methods:
+*read()* method : Returns contents of the file as a String.
+`handler.read();`
+*readLines()* method : Returns an array of Strings in which each element represents a line.
+`handler.readLines();`
+*write(String line)* method : Write a String(new-line) at the end of the file.
+`handler.write("Hello World");`
+*writeLines(String[] lines)* method  : Writes an array of String to the file with each element representing a new-line.
+`handler.writeLines({"Hello", "World"});`
+*deleteLine(int index)* method : Deletes the line at the given index.
+`handler.deleteLine(1);
