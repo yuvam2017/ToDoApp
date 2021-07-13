@@ -27,23 +27,23 @@ Daily Activities Tracker (To Do App)
 
 
 # File Handling ::
-Custom File handler for to-do app.
+Custom File handler for to-do app. <br>
 
 ### Usage:
-import the FileHandler class*
-`import FileHandler.*;`
-create FileHandler Object*
-`FileHandler handler = new FileHandler("file_name");`
-
+import the FileHandler class*<br>
+`import FileHandler.*;`<br>
+create FileHandler Object*<br>
+`FileHandler handler = new FileHandler("file_name");`<br>
 
 ### Available methods:
-*read()* method : Returns contents of the file as a String.
-`handler.read();`
-*readLines()* method : Returns an array of Strings in which each element represents a line.
-`handler.readLines();`
-*write(String line)* method : Write a String(new-line) at the end of the file.
-`handler.write("Hello World");`
-*writeLines(String[] lines)* method  : Writes an array of String to the file with each element representing a new-line.
-`handler.writeLines({"Hello", "World"});`
-*deleteLine(int index)* method : Deletes the line at the given index.
-`handler.deleteLine(1);
+*read()* method : Returns contents of the file as a String.<br>
+`handler.read();`<br>
+*readLines()* method : Returns an array of Strings in which each element represents a line.<br>
+`handler.readLines();`<br>
+*write(String line)* method : Write a String(new-line) at the end of the file.<br>
+`handler.write("Hello World");`<br>
+*writeLines(String[] lines)* method  : Writes an array of String to the file with each element representing a new-line.<br>
+`handler.writeLines({"Hello", "World"});`<br>
+*deleteLine(int index)* method : Deletes the line at the given index. <br>
+`handler.deleteLine(1);<br>
+
